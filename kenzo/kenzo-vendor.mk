@@ -169,6 +169,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kenzo/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
     vendor/xiaomi/kenzo/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/xiaomi/kenzo/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
+    vendor/xiaomi/kenzo/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/xiaomi/kenzo/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/xiaomi/kenzo/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/kenzo/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
